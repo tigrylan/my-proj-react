@@ -1,0 +1,16 @@
+.button{
+    padding: 1vh 3vh;
+    border-radius: 1vw;
+    background: #c4253e;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.button-logout{
+    border: none;
+    width: 64px;
+    min-height:64px;
+    cursor: pointer;
+}
